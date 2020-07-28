@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,400;1,600&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,400&display=swap" rel="stylesheet");
+
+
+@import url("components/top-bar.css");
+@import url("components/banner.css");
+@import url("components/propertyinfo.css");
+@import url("components/highlight.css");
+@import url("components/footer.css");
+
+body{
+  color:black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  text-justify: justify;
+  font-weight: lighter;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 10px;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: #B49B6D;
+  font-size: 30px;
+  margin: -10px 0px 0px 0px;
+  font-weight: lighter;
+}
+
+h2,h3{
+  font-family: 'Cormorant Garamond', serif;
+  text-justify: justify;
+  text-justify:center;
+  font-weight:100;
+  letter-spacing: 1px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color:#D5343A;
+}

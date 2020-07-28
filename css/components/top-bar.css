@@ -1,0 +1,49 @@
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color:#D5343A;
+}
+
+.top-bar{
+  display:grid;
+  grid-template-columns: 1fr 30fr;
+  background-color: white;
+}
+
+#logo {
+  width:50px;
+  height:50px;
+  text-decoration: none;
+  padding: 10px 10px 10px 50px;
+}
+
+
+.list-inline{
+  list-style: none;
+  height:40px;
+  font-size:15px;
+  font-family: 'Nanum Gothic', sans-serif;
+  background-color: white;
+}
+
+.list-items{
+  text-decoration: none;
+  color:black;
+  display: table-cell;
+  width: cover;
+  height: 40px;
+  padding: 10px;
+  vertical-align: middle;
+
+}
+
+
+.list-inline li{
+  display:inline;
+  padding:40px;
+}
+
+
+

@@ -1,0 +1,24 @@
+#footerlogo{
+  width:150px;
+  height: 150px;
+  padding: 20px;
+
+}
+
+
+.footer{
+  height: 200px;
+  padding: 20px;
+  background-color: #dfd3c3;
+  color:#888888;
+  font-size: 15px;
+  display:grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-gap: 200px;
+  box-shadow: 2px;
+}
+
+.list-footer{
+  text-decoration: none;
+  color:#888888;
+}

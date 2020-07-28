@@ -1,0 +1,37 @@
+.highlight {
+  text-align: center;
+}
+
+.highlight h1{
+  text-align: center;
+  margin: 50px 0px 50px 0px;
+}
+
+.highlight p{
+  text-justify:justify;
+  font-style: italic;
+  padding: 10px 150px 0px 150px;
+  line-height: 1.8;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.gallery {
+  background-image: url(../../images/nudebg.png);
+  background-repeat: none;
+  margin: 50px 0px 0px 0px;
+  padding: 50px;
+  background-size: 100%;
+  background-opacity: 0.8;
+}
+
+.gallery img{
+  width:600px;
+  height: auto;
+  display: inline-flex;
+  padding: 50px 25px 0px 25px;
+}

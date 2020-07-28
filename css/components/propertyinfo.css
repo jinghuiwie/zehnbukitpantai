@@ -1,0 +1,27 @@
+.propertyinfo {
+  background-image: url(../../images/nudebg.png);
+  background-size: 100%;
+  padding: 60px;
+ }
+
+.propertylist {
+  list-style-position: inside;
+  list-style: none;
+  padding: 50px 80px 0px 80px;
+  margin: -20px 0px 0px 0px;
+}
+
+.propertylist li {
+  background-color: white;
+  padding: 20px;
+  margin:10px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  display: inline-block;
+  width:500px;
+  height: 40px;
+
+ }
+
+.propertyinfo h1{
+  margin: -10px 0px 0px 0px;
+}
